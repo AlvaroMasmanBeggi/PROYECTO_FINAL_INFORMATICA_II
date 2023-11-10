@@ -1,0 +1,387 @@
+
+Fecha: 2023|10|11     Hora: 20:5:44     Se encendio el LED 1
+Fecha: 2023|10|11     Hora: 20:5:44     Se apagó el LED 1
+Fecha: 2023|10|11     Hora: 20:5:44     Se encendio el LED 1
+Fecha: 2023|10|11     Hora: 20:5:44     Se apagó el LED 1
+
+Fecha: 2023|10|11     Hora: 20:13:45     Se encendio el LED 1
+Fecha: 2023|10|11     Hora: 20:13:46     Se apagó el LED 1
+Fecha: 2023|10|11     Hora: 20:13:46     Se encendio el LED 2
+Fecha: 2023|10|11     Hora: 20:13:47     Se apagó el LED 2
+
+Fecha: 2023|10|11     Hora: 20:14:25     Se encendio el LED 1
+Fecha: 2023|10|11     Hora: 20:14:26     Se encendio el LED 2
+Fecha: 2023|10|11     Hora: 20:14:27     Se apagó el LED 2
+Fecha: 2023|10|11     Hora: 20:14:27     Se encendio el LED 2
+Fecha: 2023|10|11     Hora: 20:14:28     Se apagó el LED 2
+Fecha: 2023|10|11     Hora: 20:14:28     Se encendio el LED 3
+Fecha: 2023|10|11     Hora: 20:14:29     Se apagó el LED 3
+Fecha: 2023|10|11     Hora: 20:14:29     Se encendio el LED 3
+Fecha: 2023|10|11     Hora: 20:14:30     Se apagó el LED 3
+Fecha: 2023|10|11     Hora: 20:14:30     Se encendio el LED 4
+Fecha: 2023|10|11     Hora: 20:14:31     Se apagó el LED 4
+Fecha: 2023|10|11     Hora: 20:14:31     Se encendio el LED 4
+Fecha: 2023|10|11     Hora: 20:14:31     Se apagó el LED 4
+Fecha: 2023|10|11     Hora: 20:14:33     Se apagó el LED 1
+
+Fecha: 2023|10|11     Hora: 20:18:16     Se encendio el LED 5
+Fecha: 2023|10|11     Hora: 20:18:17     Se apagó el LED 5
+Fecha: 2023|10|11     Hora: 20:18:17     Se encendio el LED 5
+Fecha: 2023|10|11     Hora: 20:18:17     Se apagó el LED 5
+Fecha: 2023|10|11     Hora: 20:18:17     Se encendio el LED 5
+Fecha: 2023|10|11     Hora: 20:18:18     Se encendio el LED 4
+Fecha: 2023|10|11     Hora: 20:18:18     Se apagó el LED 4
+Fecha: 2023|10|11     Hora: 20:18:19     Se apagó el LED 5
+
+Fecha: 2023|10|11     Hora: 20:27:35     Se encendio el LED 1
+Fecha: 2023|10|11     Hora: 20:27:35     Se apagó el LED 1
+Fecha: 2023|10|11     Hora: 20:27:36     Se encendio el LED 2
+Fecha: 2023|10|11     Hora: 20:27:37     Se apagó el LED 2
+
+Fecha: 2023|10|11     Hora: 20:37:13     Se encendio el LED 1
+Fecha: 2023|10|11     Hora: 20:37:13     Se apagó el LED 1
+Fecha: 2023|10|11     Hora: 20:37:14     Se encendio el LED 1
+Fecha: 2023|10|11     Hora: 20:37:15     Se encendio el LED 3
+Fecha: 2023|10|11     Hora: 20:37:15     Se apagó el LED 3
+
+Fecha: 2023|10|11     Hora: 20:38:40     Se encendio el LED 7
+Fecha: 2023|10|11     Hora: 20:38:41     Se encendio el LED 6
+Fecha: 2023|10|11     Hora: 20:38:42     Se encendio el LED 5
+Fecha: 2023|10|11     Hora: 20:38:43     Se encendio el LED 4
+Fecha: 2023|10|11     Hora: 20:38:43     Se encendio el LED 3
+Fecha: 2023|10|11     Hora: 20:38:44     Se encendio el LED 2
+Fecha: 2023|10|11     Hora: 20:38:44     Se encendio el LED 1
+Fecha: 2023|10|11     Hora: 20:38:47     Se apagó el LED 5
+Fecha: 2023|10|11     Hora: 20:38:47     Se apagó el LED 6
+Fecha: 2023|10|11     Hora: 20:38:48     Se apagó el LED 4
+Fecha: 2023|10|11     Hora: 20:38:49     Se apagó el LED 7
+Fecha: 2023|10|11     Hora: 20:38:49     Se apagó el LED 3
+Fecha: 2023|10|11     Hora: 20:38:50     Se apagó el LED 2
+Fecha: 2023|10|11     Hora: 20:38:51     Se apagó el LED 1
+Fecha: 2023|10|11     Hora: 20:38:52     Se encendio el LED 5
+Fecha: 2023|10|11     Hora: 20:38:52     Se apagó el LED 5
+Fecha: 2023|10|11     Hora: 20:38:53     Se encendio el LED 5
+Fecha: 2023|10|11     Hora: 20:38:53     Se encendio el LED 3
+Fecha: 2023|10|11     Hora: 20:38:54     Se encendio el LED 4
+
+Fecha: 2023|10|11     Hora: 20:39:12     Se encendio el LED 7
+Fecha: 2023|10|11     Hora: 20:39:15     Se apagó el LED 7
+Fecha: 2023|10|11     Hora: 20:39:15     Se encendio el LED 7
+Fecha: 2023|10|11     Hora: 20:39:20     Se apagó el LED 7
+Fecha: 2023|10|11     Hora: 20:39:21     Se encendio el LED 7
+
+Fecha: 2023|10|11     Hora: 20:41:17     Se encendio el LED 1
+
+Fecha: 2023|10|11     Hora: 20:41:55     Se encendio el LED 1
+Fecha: 2023|10|11     Hora: 20:42:1     Se apagó el LED 1
+
+Fecha: 2023|10|11     Hora: 20:42:19     Se encendio el LED 1
+Fecha: 2023|10|11     Hora: 20:42:20     Se apagó el LED 1
+Fecha: 2023|10|11     Hora: 20:42:22     Se encendio el LED 1
+Fecha: 2023|10|11     Hora: 20:42:23     Se apagó el LED 1
+Fecha: 2023|10|11     Hora: 20:42:25     Se encendio el LED 1
+
+
+
+Fecha: 2023|10|11     Hora: 20:54:8     Se encendio el LED 1
+Fecha: 2023|10|11     Hora: 20:54:9     Se encendio el LED 2
+Fecha: 2023|10|11     Hora: 20:54:10     Se apagó el LED 2
+Fecha: 2023|10|11     Hora: 20:54:10     Se apagó el LED 1
+Fecha: 2023|10|11     Hora: 20:54:12     Se encendio el LED 7
+Fecha: 2023|10|11     Hora: 20:54:12     Se apagó el LED 7
+
+
+Fecha: 2023|10|11     Hora: 20:57:35     Se encendio el LED 1
+Fecha: 2023|10|11     Hora: 20:57:35     Se encendio el LED 2
+Fecha: 2023|10|11     Hora: 20:57:35     Se apagó el LED 2
+Fecha: 2023|10|11     Hora: 20:57:36     Se apagó el LED 1
+Fecha: 2023|10|11     Hora: 20:57:36     Se encendio el LED 1
+
+
+
+Fecha: 2023|10|11     Hora: 21:5:17     Se encendio el LED 1
+Fecha: 2023|10|11     Hora: 21:5:18     Se apagó el LED 1
+Fecha: 2023|10|11     Hora: 21:5:19     Se encendio el LED 2
+Fecha: 2023|10|11     Hora: 21:5:20     Se apagó el LED 2
+Fecha: 2023|10|11     Hora: 21:5:23     Se encendio el LED 1
+
+Fecha: 2023|10|20     Hora: 18:47:3     Se encendio el LED 2
+Fecha: 2023|10|20     Hora: 18:47:4     Se encendio el LED 3
+Fecha: 2023|10|20     Hora: 18:47:5     Se encendio el LED 7
+Fecha: 2023|10|20     Hora: 18:47:6     Se encendio el LED 5
+Fecha: 2023|10|20     Hora: 18:47:14     Se encendio el LED 1
+Fecha: 2023|10|20     Hora: 18:47:20     Se apagó el LED 1
+Fecha: 2023|10|20     Hora: 18:47:21     Se encendio el LED 1
+Fecha: 2023|10|20     Hora: 18:47:22     Se apagó el LED 1
+
+Fecha: 2023|10|20     Hora: 20:2:9     Se encendio el LED 1
+Fecha: 2023|10|20     Hora: 20:2:10     Se apagó el LED 1
+Fecha: 2023|10|20     Hora: 20:2:12     Se encendio el LED 1
+
+Fecha: 2023|10|20     Hora: 20:7:43     Se encendio el LED 2
+Fecha: 2023|10|20     Hora: 20:7:43     Se apagó el LED 2
+Fecha: 2023|10|20     Hora: 20:7:44     Se encendio el LED 2
+Fecha: 2023|10|20     Hora: 20:7:45     Se apagó el LED 2
+
+Fecha: 2023|10|20     Hora: 20:11:39     Se encendio el LED 3
+Fecha: 2023|10|20     Hora: 20:11:39     Se apagó el LED 3
+Fecha: 2023|10|20     Hora: 20:11:40     Se encendio el LED 3
+Fecha: 2023|10|20     Hora: 20:11:42     Se apagó el LED 3
+
+Fecha: 2023|10|20     Hora: 20:13:14     Se encendio el LED 4
+Fecha: 2023|10|20     Hora: 20:13:16     Se apagó el LED 4
+Fecha: 2023|10|20     Hora: 20:13:18     Se encendio el LED 1
+Fecha: 2023|10|20     Hora: 20:13:19     Se encendio el LED 2
+Fecha: 2023|10|20     Hora: 20:13:19     Se encendio el LED 3
+Fecha: 2023|10|20     Hora: 20:13:21     Se encendio el LED 4
+
+Fecha: 2023|10|20     Hora: 20:19:57     Se encendio el LED 2
+Fecha: 2023|10|20     Hora: 20:19:57     Se apagó el LED 2
+Fecha: 2023|10|20     Hora: 20:19:58     Se encendio el LED 2
+Fecha: 2023|10|20     Hora: 20:19:58     Se encendio el LED 3
+Fecha: 2023|10|20     Hora: 20:19:59     Se encendio el LED 5
+Fecha: 2023|10|20     Hora: 20:20:23     Se apagó el LED 2
+
+Fecha: 2023|10|20     Hora: 20:32:51     Se encendio el LED 7
+Fecha: 2023|10|20     Hora: 20:32:53     Se encendio el LED 6
+Fecha: 2023|10|20     Hora: 20:32:54     Se encendio el LED 5
+Fecha: 2023|10|20     Hora: 20:32:56     Se apagó el LED 7
+Fecha: 2023|10|20     Hora: 20:32:57     Se apagó el LED 5
+Fecha: 2023|10|20     Hora: 20:32:58     Se apagó el LED 6
+
+Fecha: 2023|10|27     Hora: 16:28:38     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 16:28:39     Se encendio el LED 2
+
+Fecha: 2023|10|27     Hora: 17:2:1     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 17:2:2     Se apagó el LED 1
+Fecha: 2023|10|27     Hora: 17:2:3     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 17:2:4     Se apagó el LED 1
+Fecha: 2023|10|27     Hora: 17:2:4     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 17:2:5     Se apagó el LED 1
+Fecha: 2023|10|27     Hora: 17:2:6     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 17:2:7     Se apagó el LED 1
+
+Fecha: 2023|10|27     Hora: 17:8:48     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 17:8:49     Se apagó el LED 1
+Fecha: 2023|10|27     Hora: 17:8:50     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 17:8:51     Se apagó el LED 1
+Fecha: 2023|10|27     Hora: 17:8:52     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 17:8:53     Se apagó el LED 1
+
+Fecha: 2023|10|27     Hora: 17:9:27     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 17:9:28     Se apagó el LED 1
+Fecha: 2023|10|27     Hora: 17:9:29     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 17:9:29     Se apagó el LED 1
+Fecha: 2023|10|27     Hora: 17:9:29     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 17:9:30     Se apagó el LED 1
+
+Fecha: 2023|10|27     Hora: 18:16:19     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 18:16:20     Se apagó el LED 1
+Fecha: 2023|10|27     Hora: 18:16:21     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 18:16:22     Se apagó el LED 1
+Fecha: 2023|10|27     Hora: 18:16:22     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 18:16:49     Se apagó el LED 1
+
+Fecha: 2023|10|27     Hora: 18:19:21     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 18:19:21     Se apagó el LED 1
+Fecha: 2023|10|27     Hora: 18:19:22     Se encendio el LED 1
+
+Fecha: 2023|10|27     Hora: 18:22:22     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 18:22:23     Se apagó el LED 1
+Fecha: 2023|10|27     Hora: 18:22:23     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 18:22:24     Se apagó el LED 1
+
+Fecha: 2023|10|27     Hora: 18:23:40     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 18:23:41     Se apagó el LED 1
+Fecha: 2023|10|27     Hora: 18:23:41     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 18:23:43     Se apagó el LED 1
+Fecha: 2023|10|27     Hora: 18:23:44     Se encendio el LED 1
+
+Fecha: 2023|10|27     Hora: 18:47:11     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 18:47:11     Se apagó el LED 1
+Fecha: 2023|10|27     Hora: 18:47:12     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 18:47:13     Se apagó el LED 1
+Fecha: 2023|10|27     Hora: 18:47:13     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 18:47:14     Se apagó el LED 1
+Fecha: 2023|10|27     Hora: 18:47:14     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 18:47:15     Se apagó el LED 1
+Fecha: 2023|10|27     Hora: 18:47:15     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 18:47:16     Se apagó el LED 1
+
+Fecha: 2023|10|27     Hora: 19:0:21     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 19:0:23     Se encendio el LED 1
+
+Fecha: 2023|10|27     Hora: 19:1:2     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 19:1:8     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 19:1:9     Se encendio el LED 1
+
+Fecha: 2023|10|27     Hora: 19:6:14     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 19:6:17     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 19:6:19     Se apagó el LED 1
+Fecha: 2023|10|27     Hora: 19:6:23     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 19:6:25     Se apagó el LED 1
+Fecha: 2023|10|27     Hora: 19:6:28     Se encendio el LED 1
+
+
+Fecha: 2023|10|27     Hora: 20:43:20     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 20:43:22     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 20:43:25     Se encendio el LED 1
+
+Fecha: 2023|10|27     Hora: 21:11:12     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 21:11:14     Se apagó el LED 1
+Fecha: 2023|10|27     Hora: 21:11:16     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 21:11:18     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 21:11:20     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 21:11:21     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 21:11:22     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 21:11:25     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 21:11:27     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 21:11:29     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 21:11:31     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 21:11:34     Se encendio el LED 1
+
+Fecha: 2023|10|27     Hora: 21:38:55     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 21:38:56     Se apagó el LED 1
+Fecha: 2023|10|27     Hora: 21:39:0     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 21:39:10     Se apagó el LED 1
+Fecha: 2023|10|27     Hora: 21:39:12     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 21:39:15     Se apagó el LED 1
+Fecha: 2023|10|27     Hora: 21:39:30     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 21:39:33     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 21:39:35     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 21:39:44     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 21:39:51     Se apagó el LED 1
+Fecha: 2023|10|27     Hora: 21:39:53     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 21:40:0     Se apagó el LED 1
+
+Fecha: 2023|10|27     Hora: 21:56:55     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 21:56:57     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 21:56:59     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 21:57:0     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 21:57:4     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 21:57:8     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 21:57:11     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 21:57:16     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 21:57:17     Se encendio el LED 1
+Fecha: 2023|10|27     Hora: 21:57:19     Se apagó el LED 1
+Fecha: 2023|10|27     Hora: 21:57:20     Se encendio el LED 1
+
+Fecha: 2023|11|8     Hora: 19:52:50     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:52:58     Se apagó el LED 1
+Fecha: 2023|11|8     Hora: 19:53:25     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:53:26     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:53:26     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:53:26     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:53:27     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:54:22     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:54:23     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:54:24     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:54:24     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:54:26     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:54:27     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:54:28     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:54:41     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:54:42     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:54:43     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:54:43     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:56:2     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:56:2     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:56:3     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:56:4     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:56:4     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:56:4     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:56:5     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:56:5     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:56:5     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:56:6     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:56:6     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:56:7     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:56:7     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:56:8     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:56:8     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:56:8     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:56:9     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:56:9     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:56:10     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:56:10     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:56:10     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:56:11     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:56:11     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:56:12     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:56:12     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:56:13     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:56:13     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:56:13     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:56:40     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:56:41     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:56:46     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:56:48     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:56:53     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:56:57     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:57:0     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:57:2     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:57:3     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:57:10     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:57:12     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:57:12     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:57:14     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:57:14     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:57:18     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:57:20     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:57:21     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:57:22     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:57:23     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:57:25     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:57:28     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:57:30     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:57:31     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:57:35     Se apagó el LED 1
+Fecha: 2023|11|8     Hora: 19:57:38     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:57:40     Se apagó el LED 1
+Fecha: 2023|11|8     Hora: 19:57:42     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:57:45     Se apagó el LED 1
+Fecha: 2023|11|8     Hora: 19:57:47     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:57:49     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:58:33     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:58:33     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:58:33     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:58:34     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:58:34     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:58:34     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:58:35     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:58:35     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:58:36     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:58:36     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:58:36     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:58:37     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:58:37     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:58:37     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:58:38     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:58:38     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:58:39     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 19:58:39     Se encendio el LED 1
+
+Fecha: 2023|11|8     Hora: 20:32:52     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 20:32:52     Se detecto movimiento 1
+Fecha: 2023|11|8     Hora: 20:32:52     Dejo de detectar movimiento 1
+Fecha: 2023|11|8     Hora: 20:32:53     Se detecto movimiento 1
+Fecha: 2023|11|8     Hora: 20:32:54     Dejo de detectar movimiento 1
+Fecha: 2023|11|8     Hora: 20:32:56     Se detecto movimiento 1
+Fecha: 2023|11|8     Hora: 20:33:2     Dejo de detectar movimiento 1
+
+Fecha: 2023|11|8     Hora: 20:56:52     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 20:56:58     Se apagó el LED 1
+Fecha: 2023|11|8     Hora: 20:57:5     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 20:57:12     Se apagó el LED 1
+Fecha: 2023|11|8     Hora: 20:57:20     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 20:57:23     Se apagó el LED 1
+Fecha: 2023|11|8     Hora: 20:57:26     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 20:57:36     Se apagó el LED 1
+Fecha: 2023|11|8     Hora: 20:57:36     Se encendio el LED 1
+Fecha: 2023|11|8     Hora: 20:57:38     Se apagó el LED 1
+Fecha: 2023|11|8     Hora: 20:57:41     Se detecto movimiento en el sensor 1
+Fecha: 2023|11|8     Hora: 20:57:44     Dejo de detectar movimiento en el sensor 1
+Fecha: 2023|11|8     Hora: 20:57:46     Se detecto movimiento en el sensor 1
+Fecha: 2023|11|8     Hora: 20:57:46     Dejo de detectar movimiento en el sensor 1
+
+
