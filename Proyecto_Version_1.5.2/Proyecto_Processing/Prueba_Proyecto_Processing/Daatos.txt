@@ -1,0 +1,137 @@
+Fecha: 2023|11|25     Hora: 12:47:36     Se encendio el LED 3
+Fecha: 2023|11|25     Hora: 12:47:39     Se encendio el LED 4
+
+Fecha: 2023|11|25     Hora: 12:48:50     Se encendio el LED 1
+Fecha: 2023|11|25     Hora: 12:48:54     Se encendio el LED 2
+Fecha: 2023|11|25     Hora: 12:48:57     Se encendio el LED 3
+Fecha: 2023|11|25     Hora: 12:49:0     Se encendio el LED 4
+Fecha: 2023|11|25     Hora: 12:49:2     Se encendio el LED 6
+Fecha: 2023|11|25     Hora: 12:49:4     Se encendio el LED 5
+Fecha: 2023|11|25     Hora: 12:49:8     Se encendio el LED 7
+Fecha: 2023|11|25     Hora: 12:49:11     Se apagó el LED 3
+Fecha: 2023|11|25     Hora: 12:49:15     Se apagó el LED 5
+Fecha: 2023|11|25     Hora: 12:49:17     Se apagó el LED 6
+Fecha: 2023|11|25     Hora: 12:49:18     Se apagó el LED 4
+Fecha: 2023|11|25     Hora: 12:49:20     Se apagó el LED 7
+Fecha: 2023|11|25     Hora: 12:49:22     Se apagó el LED 1
+Fecha: 2023|11|25     Hora: 12:49:23     Se apagó el LED 2
+Fecha: 2023|11|25     Hora: 12:49:27     Se detecto movimiento en el sensor 1
+Fecha: 2023|11|25     Hora: 12:49:28     Dejo de detectar movimiento en el sensor 1
+Fecha: 2023|11|25     Hora: 12:49:30     Se detecto movimiento en el sensor 2
+Fecha: 2023|11|25     Hora: 12:49:31     Dejo de detectar movimiento en el sensor 2
+
+Fecha: 2023|11|25     Hora: 12:59:29     Se encendio el LED 1
+Fecha: 2023|11|25     Hora: 12:59:31     Se encendio el LED 2
+Fecha: 2023|11|25     Hora: 12:59:32     Se encendio el LED 3
+Fecha: 2023|11|25     Hora: 12:59:34     Se encendio el LED 4
+Fecha: 2023|11|25     Hora: 12:59:36     Se encendio el LED 6
+Fecha: 2023|11|25     Hora: 12:59:38     Se encendio el LED 7
+Fecha: 2023|11|25     Hora: 12:59:42     Se encendio el LED 5
+Fecha: 2023|11|25     Hora: 12:59:46     Se detecto movimiento en el sensor 1
+Fecha: 2023|11|25     Hora: 12:59:47     Dejo de detectar movimiento en el sensor 1
+Fecha: 2023|11|25     Hora: 12:59:48     Se detecto movimiento en el sensor 1
+Fecha: 2023|11|25     Hora: 12:59:48     Dejo de detectar movimiento en el sensor 1
+Fecha: 2023|11|25     Hora: 12:59:51     Se detecto movimiento en el sensor 2
+Fecha: 2023|11|25     Hora: 12:59:51     Dejo de detectar movimiento en el sensor 2
+Fecha: 2023|11|25     Hora: 13:0:6     Se encendio el LED 7
+Fecha: 2023|11|25     Hora: 13:0:7     Se apagó el LED 7
+Fecha: 2023|11|25     Hora: 13:0:8     Se encendio el LED 5
+Fecha: 2023|11|25     Hora: 13:0:8     Se apagó el LED 5
+Fecha: 2023|11|25     Hora: 13:0:8     Se encendio el LED 5
+Fecha: 2023|11|25     Hora: 13:0:9     Se apagó el LED 5
+Fecha: 2023|11|25     Hora: 13:0:11     Se encendio el LED 1
+Fecha: 2023|11|25     Hora: 13:0:11     Se apagó el LED 1
+Fecha: 2023|11|25     Hora: 13:0:12     Se encendio el LED 2
+Fecha: 2023|11|25     Hora: 13:0:12     Se apagó el LED 2
+Fecha: 2023|11|25     Hora: 13:0:15     Se encendio el LED 3
+Fecha: 2023|11|25     Hora: 13:0:15     Se apagó el LED 3
+Fecha: 2023|11|25     Hora: 13:0:16     Se encendio el LED 5
+Fecha: 2023|11|25     Hora: 13:0:17     Se apagó el LED 5
+Fecha: 2023|11|25     Hora: 13:0:17     Se encendio el LED 5
+Fecha: 2023|11|25     Hora: 13:0:19     Se encendio el LED 6
+Fecha: 2023|11|25     Hora: 13:0:19     Se apagó el LED 6
+Fecha: 2023|11|25     Hora: 13:0:20     Se encendio el LED 3
+Fecha: 2023|11|25     Hora: 13:0:20     Se apagó el LED 3
+Fecha: 2023|11|25     Hora: 13:0:20     Se encendio el LED 3
+Fecha: 2023|11|25     Hora: 13:0:21     Se apagó el LED 3
+Fecha: 2023|11|25     Hora: 13:0:21     Se encendio el LED 3
+Fecha: 2023|11|25     Hora: 13:0:22     Se apagó el LED 3
+Fecha: 2023|11|25     Hora: 13:0:23     Se encendio el LED 6
+Fecha: 2023|11|25     Hora: 13:0:23     Se apagó el LED 6
+Fecha: 2023|11|25     Hora: 13:0:23     Se encendio el LED 6
+Fecha: 2023|11|25     Hora: 13:0:23     Se apagó el LED 6
+Fecha: 2023|11|25     Hora: 13:0:25     Se apagó el LED 5
+Fecha: 2023|11|25     Hora: 13:0:25     Se encendio el LED 5
+Fecha: 2023|11|25     Hora: 13:0:26     Se apagó el LED 5
+Fecha: 2023|11|25     Hora: 13:0:30     Se apagó el LED 4
+
+Fecha: 2023|11|25     Hora: 13:7:46     Se encendio el LED 1
+Fecha: 2023|11|25     Hora: 13:7:48     Se encendio el LED 2
+Fecha: 2023|11|25     Hora: 13:7:49     Se encendio el LED 3
+Fecha: 2023|11|25     Hora: 13:7:51     Se encendio el LED 4
+Fecha: 2023|11|25     Hora: 13:7:52     Se encendio el LED 6
+Fecha: 2023|11|25     Hora: 13:7:54     Se encendio el LED 5
+Fecha: 2023|11|25     Hora: 13:7:55     Se encendio el LED 7
+Fecha: 2023|11|25     Hora: 13:7:59     Se detecto movimiento en el sensor 2
+Fecha: 2023|11|25     Hora: 13:8:0     Dejo de detectar movimiento en el sensor 2
+Fecha: 2023|11|25     Hora: 13:8:3     Se detecto movimiento en el sensor 1
+Fecha: 2023|11|25     Hora: 13:8:4     Dejo de detectar movimiento en el sensor 1
+
+Fecha: 2023|11|27     Hora: 16:59:48     Se encendio el LED 1
+Fecha: 2023|11|27     Hora: 16:59:50     Se encendio el LED 2
+
+Fecha: 2023|11|27     Hora: 17:2:31     Se encendio el LED 1
+Fecha: 2023|11|27     Hora: 17:2:33     Se encendio el LED 2
+Fecha: 2023|11|27     Hora: 17:2:34     Se detecto movimiento en el sensor 1
+Fecha: 2023|11|27     Hora: 17:2:35     Dejo de detectar movimiento en el sensor 1
+Fecha: 2023|11|27     Hora: 17:2:36     Se detecto movimiento en el sensor 1
+Fecha: 2023|11|27     Hora: 17:2:37     Dejo de detectar movimiento en el sensor 1
+Fecha: 2023|11|27     Hora: 17:2:37     Se detecto movimiento en el sensor 1
+Fecha: 2023|11|27     Hora: 17:2:37     Dejo de detectar movimiento en el sensor 1
+Fecha: 2023|11|27     Hora: 17:2:37     Se detecto movimiento en el sensor 1
+Fecha: 2023|11|27     Hora: 17:2:38     Dejo de detectar movimiento en el sensor 1
+Fecha: 2023|11|27     Hora: 17:2:52     Se apagó el LED 2
+Fecha: 2023|11|27     Hora: 17:2:54     Se apagó el LED 1
+Fecha: 2023|11|27     Hora: 17:2:56     Se encendio el LED 2
+Fecha: 2023|11|27     Hora: 17:2:57     Se encendio el LED 1
+Fecha: 2023|11|27     Hora: 17:2:59     Se encendio el LED 3
+Fecha: 2023|11|27     Hora: 17:3:1     Se detecto movimiento en el sensor 1
+Fecha: 2023|11|27     Hora: 17:3:1     Dejo de detectar movimiento en el sensor 1
+Fecha: 2023|11|27     Hora: 17:3:1     Se detecto movimiento en el sensor 1
+Fecha: 2023|11|27     Hora: 17:3:2     Dejo de detectar movimiento en el sensor 1
+Fecha: 2023|11|27     Hora: 17:3:2     Se detecto movimiento en el sensor 1
+Fecha: 2023|11|27     Hora: 17:3:3     Dejo de detectar movimiento en el sensor 1
+Fecha: 2023|11|27     Hora: 17:3:4     Se detecto movimiento en el sensor 2
+Fecha: 2023|11|27     Hora: 17:3:5     Dejo de detectar movimiento en el sensor 2
+Fecha: 2023|11|27     Hora: 17:3:5     Se detecto movimiento en el sensor 2
+Fecha: 2023|11|27     Hora: 17:3:5     Dejo de detectar movimiento en el sensor 2
+Fecha: 2023|11|27     Hora: 17:3:38     Se apagó el LED 1
+Fecha: 2023|11|27     Hora: 17:3:39     Se encendio el LED 1
+
+Fecha: 2023|11|27     Hora: 17:4:37     Se encendio el LED 1
+Fecha: 2023|11|27     Hora: 17:4:39     Se encendio el LED 2
+Fecha: 2023|11|27     Hora: 17:4:41     Se encendio el LED 3
+
+Fecha: 2023|11|27     Hora: 17:9:16     Se encendio el LED 1
+Fecha: 2023|11|27     Hora: 17:9:18     Se apagó el LED 1
+
+Fecha: 2023|11|27     Hora: 17:10:7     Se encendio el LED 1
+Fecha: 2023|11|27     Hora: 17:10:9     Se encendio el LED 2
+Fecha: 2023|11|27     Hora: 17:10:20     Se apagó el LED 2
+Fecha: 2023|11|27     Hora: 17:10:21     Se encendio el LED 3
+Fecha: 2023|11|27     Hora: 17:10:22     Se encendio el LED 4
+Fecha: 2023|11|27     Hora: 17:10:23     Se detecto movimiento en el sensor 1
+Fecha: 2023|11|27     Hora: 17:10:24     Se apagó el LED 1
+Fecha: 2023|11|27     Hora: 17:10:25     Se encendio el LED 1
+Fecha: 2023|11|27     Hora: 17:10:26     Dejo de detectar movimiento en el sensor 1
+
+Fecha: 2023|11|27     Hora: 17:14:7     Se encendio el LED 1
+Fecha: 2023|11|27     Hora: 17:14:8     Se encendio el LED 2
+Fecha: 2023|11|27     Hora: 17:14:13     Se encendio el LED 3
+Fecha: 2023|11|27     Hora: 17:14:15     Se encendio el LED 7
+Fecha: 2023|11|27     Hora: 17:14:16     Se encendio el LED 5
+Fecha: 2023|11|27     Hora: 17:14:18     Se detecto movimiento en el sensor 1
+Fecha: 2023|11|27     Hora: 17:14:19     Dejo de detectar movimiento en el sensor 1
+Fecha: 2023|11|27     Hora: 17:14:20     Se detecto movimiento en el sensor 1
+Fecha: 2023|11|27     Hora: 17:14:20     Dejo de detectar movimiento en el sensor 1
+
